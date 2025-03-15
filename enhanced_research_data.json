@@ -1,0 +1,192 @@
+{
+    "bermuda_triangle": {
+        "basic_info": {
+            "name": ["Bermuda Triangle", "Devil's Triangle"],
+            "location": {
+                "coordinates": "25°N 71°W (approximate center)",
+                "boundaries": ["Miami (Florida)", "Bermuda", "Puerto Rico"],
+                "area": {
+                    "size": "500,000 to 1,510,000 square miles",
+                    "square_kilometers": "1,300,000 to 3,900,000"
+                }
+            }
+        },
+        "notable_aircraft_incidents": {
+            "flight_19": {
+                "date": "December 5, 1945",
+                "aircraft_type": "5 TBM Avenger torpedo bombers",
+                "crew_total": 14,
+                "flight_leader": {
+                    "name": "Lt. Charles C. Taylor",
+                    "experience": "2,500 flying hours",
+                    "background": "WWII combat veteran"
+                },
+                "mission_details": {
+                    "departure": {
+                        "time": "2:10 PM",
+                        "location": "Naval Air Station Fort Lauderdale, Florida"
+                    },
+                    "type": "Navigation Problem No. 1",
+                    "planned_route": "Training exercise"
+                },
+                "timeline": [
+                    {
+                        "time": "2:30 PM",
+                        "event": "Completed bombing run at Hens and Chickens Shoals"
+                    },
+                    {
+                        "time": "3:45 PM",
+                        "event": "First distress call, compass malfunction reported"
+                    },
+                    {
+                        "time": "4:00 PM",
+                        "event": "Deteriorating weather conditions reported"
+                    },
+                    {
+                        "time": "6:00 PM",
+                        "event": "Taylor's final direction change eastward"
+                    },
+                    {
+                        "time": "7:04 PM",
+                        "event": "Last radio transmission reporting 'white water'"
+                    }
+                ],
+                "search_operation": {
+                    "scale": "Massive",
+                    "resources": {
+                        "aircraft_ships": "Over 300",
+                        "search_area": "200,000 square miles"
+                    },
+                    "additional_loss": {
+                        "aircraft": "PBM Mariner",
+                        "crew_lost": 13,
+                        "circumstances": "Disappeared during search operations"
+                    },
+                    "outcome": "No wreckage or bodies ever found"
+                },
+                "investigation_results": {
+                    "initial_report": "Blamed Lt. Taylor's navigation errors",
+                    "final_conclusion": "Cause unknown",
+                    "contributing_factors": [
+                        "Weather conditions",
+                        "Compass malfunctions",
+                        "Fuel exhaustion"
+                    ]
+                }
+            },
+            "other_aircraft_incidents": [
+                {
+                    "name": "Star Tiger",
+                    "date": "January 30, 1948",
+                    "route": "Azores to Bermuda",
+                    "casualties": {
+                        "crew": 6,
+                        "passengers": 23,
+                        "total": 29
+                    },
+                    "status": "Unsolved, no wreckage found"
+                },
+                {
+                    "name": "Star Ariel",
+                    "date": "January 17, 1949",
+                    "route": "Bermuda to Jamaica",
+                    "casualties": {
+                        "crew": 7,
+                        "passengers": 13,
+                        "total": 20
+                    },
+                    "status": "Unsolved, no wreckage found"
+                }
+            ]
+        },
+        "shipwreck_incidents": [
+            {
+                "name": "USS Cyclops",
+                "date": "March 4, 1918",
+                "details": {
+                    "type": "Navy cargo ship",
+                    "crew_size": 306,
+                    "cargo": "11,000 tons of manganese ore",
+                    "route": "Barbados to Baltimore",
+                    "significance": "Largest non-combat loss in US Navy history",
+                    "status": "No wreckage ever found"
+                }
+            },
+            {
+                "name": "SS Cotopaxi",
+                "date": "December 1925",
+                "details": {
+                    "route": "Charleston to Havana",
+                    "crew_size": 32,
+                    "status": "Solved - wreckage found in 2020",
+                    "location": "Off St. Augustine, Florida",
+                    "cause": "Sunk due to tropical storm"
+                }
+            },
+            {
+                "name": "Carroll A. Deering",
+                "date": "1921",
+                "details": {
+                    "location": "Found off Cape Hatteras",
+                    "status": "Partially solved",
+                    "missing_items": [
+                        "Ship's log",
+                        "Navigation equipment",
+                        "Crew belongings",
+                        "Lifeboats"
+                    ],
+                    "evidence": "Wreckage found but circumstances remain mysterious"
+                }
+            }
+        ],
+        "scientific_research": {
+            "environmental_factors": {
+                "weather_conditions": {
+                    "phenomena": [
+                        "Frequent tropical storms and hurricanes",
+                        "Rapid, violent weather changes due to Gulf Stream",
+                        "Rogue waves up to 30 meters high"
+                    ],
+                    "research_validation": "Confirmed by NOAA and University of Southampton studies"
+                },
+                "geological_features": {
+                    "underwater_topology": {
+                        "mountains": "Up to 4,000 meters high",
+                        "abysses": "Reaching 8,000 meters depth"
+                    },
+                    "methane_gas_phenomena": {
+                        "source": "Seabed clathrates",
+                        "potential_effects": [
+                            "Reduced water density affecting buoyancy",
+                            "Air saturation affecting aircraft engines",
+                            "Localized gas bubble concentrations"
+                        ]
+                    }
+                },
+                "magnetic_properties": {
+                    "unique_feature": "True north and magnetic north alignment",
+                    "effects": [
+                        "Magnetic compass variations",
+                        "Navigation challenges",
+                        "Regular magnetic disturbances"
+                    ]
+                }
+            },
+            "statistical_analysis": {
+                "period": "1982-2015",
+                "source": "US Coast Guard statistics",
+                "conclusion": "Frequency of disappearances not statistically higher than other similar maritime regions",
+                "official_stance": {
+                    "organizations": ["U.S. Navy", "Coast Guard"],
+                    "explanation": "No supernatural factors",
+                    "attributed_causes": [
+                        "Human error",
+                        "Heavy maritime traffic",
+                        "Natural environmental factors",
+                        "Technical/equipment failures"
+                    ]
+                }
+            }
+        }
+    }
+}
